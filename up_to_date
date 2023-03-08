@@ -1,1 +1,4 @@
 git pull origin
+  -To get the repo from GitHub.com
+git push origin
+  -To put it to GitHub.com
